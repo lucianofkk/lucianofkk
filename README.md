@@ -63,24 +63,16 @@ Mi enfoque principal está en el **desarrollo Full Stack**, combinando tecnolog�
   <img src="https://github-profile-trophy.vercel.app/?username=lucianofkk&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 🌟 Proyectos Destacados
+## 🌟 Proyecto Destacado
 
-### 🏋️ Sistema de Gestión de Gimnasios (En desarrollo)
+### ⚡ Sistema de Gestión de Gimnasios (En desarrollo)
 **Aplicación escalable con base de datos segura y en tiempo real**
-- ⚡ Gestión de cuotas y multas automatizada
-- 👥 Sistema de administración completo
-- 📱 Interfaz centrada en experiencia de usuario
-- 🔒 Base de datos segura con MySQL y Firebase
+- Gestión de cuotas y multas automatizada
+- Sistema de administración completo
+- Interfaz centrada en experiencia de usuario
+- Base de datos segura con MySQL y Firebase
 
-### 🏨 API REST - Sistema SPA Universitario
-**Backend completo para gestión de servicios de spa**
-- 🔧 **Tecnologías:** Java, Spring Boot, API REST
-- 💼 **Funcionalidades:** 
-  - Gestión de clientes y empleados
-  - Sistema de pagos integrado
-  - Panel administrativo completo
-  - Interfaz dual (usuarios/administradores)
-- ✨ **Estado:** Funcionando perfectamente en producción
+
 
 <div align="center">
   <a href="https://github.com/lucianofkk/spa-backend">
@@ -90,11 +82,11 @@ Mi enfoque principal está en el **desarrollo Full Stack**, combinando tecnolog�
 
 ## 🔥 En qué estoy enfocado
 
-- 🔭 **Proyecto principal:** Desarrollo de app de gestión de gimnasios con arquitectura escalable
-- 🌱 **Expandiendo conocimientos:** Diseño audiovisual y mejores prácticas en UX/UI
-- 🎯 **Especialización:** APIs REST seguras y bases de datos en tiempo real
-- 💡 **Filosofía:** Código bien documentado y centrado en la experiencia del usuario final
-- 🚀 **Próximo objetivo:** Integrar mi pasión por el diseño audiovisual con desarrollo
+- **Proyecto principal:** Desarrollo de app de gestión de gimnasios con arquitectura escalable
+- **Expandiendo conocimientos:** Diseño audiovisual y mejores prácticas en UX/UI
+- **Especialización:** APIs REST seguras y bases de datos en tiempo real
+- **Filosofía:** Código bien documentado y centrado en la experiencia del usuario final
+- **Próximo objetivo:** Integrar mi pasión por el diseño audiovisual con desarrollo
 
 ## 🎨 Mi Enfoque
 
@@ -102,11 +94,11 @@ Mi enfoque principal está en el **desarrollo Full Stack**, combinando tecnolog�
 
 Mi fortaleza está en crear soluciones que no solo funcionen bien técnicamente, sino que también ofrezcan una experiencia excepcional al usuario. Combino:
 
-- ⚙️ **Backend robusto** con Java y Spring Boot
-- 📱 **Interfaces intuitivas** con React y React Native  
-- 🔄 **Integración en tiempo real** con Firebase
-- 📝 **Documentación clara** como herramienta clave
-- 🎨 **Diseño centrado en UX** 
+- **Backend robusto** con Java y Spring Boot
+- **Interfaces intuitivas** con React y React Native  
+- **Integración en tiempo real** con Firebase
+- **Documentación clara** como herramienta clave
+- **Diseño centrado en UX** 
 
 ## 📈 Mi Trayectoria
 
