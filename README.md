@@ -3,28 +3,38 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Programador+%26+Estudiante;Desarrollador+Full+Stack;Enfocado+en+experiencia+de+usuario;2+a%C3%B1os+creando+soluciones;Resistencia%2C+Chaco%2C+Argentina" alt="Typing SVG" />
 </div>
-🚀 
-Soy Luciano Frias Klein, programador y estudiante de Resistencia, Chaco, Argentina 🇦🇷. Con 2 años de experiencia desarrollando soluciones tecnológicas, me especializo en crear aplicaciones centradas en la experiencia del usuario final.
-Mi enfoque principal está en el desarrollo Full Stack, combinando tecnologías backend robustas con interfaces intuitivas. Tengo una gran pasión por el diseño audiovisual y aspiro a integrar esta área con mi carrera en programación.
-🔧 Tecnologías que manejo:
 
-Backend: Java, Spring Boot, Node.js,  desarrollo de APIs REST
-Frontend: HTML, React, React Native para desarrollo móvil
-Bases de datos: MySQL, Firebase (noSql)
-Herramientas: VS Code, Git para versionado y documentación
+## 🚀 Sobre mí
 
-💡 Actualmente trabajando en: Una aplicación escalable para gestión de gimnasios con base de datos segura y administración de cuotas en tiempo real.
+Soy **Luciano Frias Klein**, programador y estudiante de **Resistencia, Chaco, Argentina** 🇦🇷. Con **2 años de experiencia** desarrollando soluciones tecnológicas, me especializo en crear aplicaciones centradas en la **experiencia del usuario final**.
+
+Mi enfoque principal está en el **desarrollo Full Stack**, combinando tecnologías backend robustas con interfaces intuitivas. Tengo una gran pasión por el **diseño audiovisual** y aspiro a integrar esta área con mi carrera en programación.
+
+**🔧 Tecnologías que manejo:**
+- **Backend:** Java, Spring Boot, Node.js, desarrollo de APIs REST
+- **Frontend:** React, React Native para desarrollo móvil, TypeScript, JavaScript
+- **Bases de datos:** MySQL, Firebase (tiempo real)
+- **Herramientas:** VS Code, Git para versionado y documentación, Figma para diseño, Postman para testing de APIs
+
+**🎯 Actualmente trabajando en:** Una aplicación escalable para gestión de gimnasios con base de datos segura y administración de cuotas en tiempo real.
+
+**💡 Mis fortalezas:** Desarrollo de APIs REST, bases de datos seguras, sistemas en tiempo real y diseño UX/UI.
 
 ## 🛠️ Stack Tecnológico
 
 ### Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![API REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### Frontend & Mobile
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 ### Base de Datos
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,6 +44,9 @@ Herramientas: VS Code, Git para versionado y documentación
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ## 📊 Estadísticas de GitHub
 
@@ -98,17 +111,16 @@ Mi fortaleza está en crear soluciones que no solo funcionen bien técnicamente,
 ## 📈 Mi Trayectoria
 
 ```
-2022  →  Inicios en programación
-2023  →  Dominio de Java y Spring Boot
-2024  →  Desarrollo Full Stack con React
-Hoy   →  Proyectos escalables + Aspiración en diseño audiovisual
+2023  →  Inicios en programación
+2024  →  Dominio de Java y Spring Boot
+Hoy   →  Desarrollo Full Stack con React, Proyectos escalables + Aspiración en diseño audiovisual
 ```
 
 ## 📫 Conectemos
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianofk@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianogabrielfk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luciano-frias-klein)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucianofkk)
 
