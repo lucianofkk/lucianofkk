@@ -3,18 +3,17 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Programador+%26+Estudiante;Desarrollador+Full+Stack;Enfocado+en+experiencia+de+usuario;2+a%C3%B1os+creando+soluciones;Resistencia%2C+Chaco%2C+Argentina" alt="Typing SVG" />
 </div>
-🚀 Sobre mí
+🚀 
 Soy Luciano Frias Klein, programador y estudiante de Resistencia, Chaco, Argentina 🇦🇷. Con 2 años de experiencia desarrollando soluciones tecnológicas, me especializo en crear aplicaciones centradas en la experiencia del usuario final.
 Mi enfoque principal está en el desarrollo Full Stack, combinando tecnologías backend robustas con interfaces intuitivas. Tengo una gran pasión por el diseño audiovisual y aspiro a integrar esta área con mi carrera en programación.
 🔧 Tecnologías que manejo:
 
-Backend: Java, Spring Boot, desarrollo de APIs REST
-Frontend: React, React Native para desarrollo móvil
-Bases de datos: MySQL, Firebase (tiempo real)
+Backend: Java, Spring Boot, Node.js,  desarrollo de APIs REST
+Frontend: HTML, React, React Native para desarrollo móvil
+Bases de datos: MySQL, Firebase (noSql)
 Herramientas: VS Code, Git para versionado y documentación
 
-🎯 Actualmente trabajando en: Una aplicación escalable para gestión de gimnasios con base de datos segura y administración de cuotas en tiempo real.
-💡 Mis fortalezas: Desarrollo de APIs REST, bases de datos seguras, sistemas en tiempo real y diseño UX/UI.
+💡 Actualmente trabajando en: Una aplicación escalable para gestión de gimnasios con base de datos segura y administración de cuotas en tiempo real.
 
 ## 🛠️ Stack Tecnológico
 
