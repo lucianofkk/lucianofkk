@@ -16,10 +16,7 @@ Mi enfoque principal está en el **desarrollo Full Stack**, combinando tecnolog�
 - **Bases de datos:** MySQL, Firebase (tiempo real)
 - **Herramientas:** VS Code, Git para versionado y documentación, Figma para diseño, Postman para testing de APIs
 
-**🎯 Actualmente trabajando en:** Una aplicación escalable para gestión de gimnasios con base de datos segura y administración de cuotas en tiempo real.
-
-**💡 Mis fortalezas:** Desarrollo de APIs REST, bases de datos seguras, sistemas en tiempo real y diseño UX/UI.
-
+**💡 Actualmente trabajando en:** Una aplicación escalable para gestión de gimnasios con base de datos segura y administración de cuotas en tiempo real.
 ## 🛠️ Stack Tecnológico
 
 ### Backend
